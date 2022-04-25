@@ -32,6 +32,7 @@ If no option or invalid options are provided your program must return 84 and dis
 # Note:
 
 Epitech Moulinette: 88%
+![Result:](Source/Result.png)
 
 01. Basics - 100% - 1/1
 02. Rule 30 - 100% - 3/3
