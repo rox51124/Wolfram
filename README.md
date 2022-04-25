@@ -33,12 +33,12 @@ If no option or invalid options are provided your program must return 84 and dis
 
 Epitech Moulinette: 88%
 
-01 Basics - 100% - 1/1
-02 Rule 30 - 100% - 3/3
-03 Rule 90 - 100% - 3/3
-04 Rule 110 - 100% - 3/3
-05 Infinite - 100% - 1/1
-06 Window and move - 50% - 1/2
-07 Performance - 100% - 3/3
-08 Error handling - 60% - 3/5
-09 Coding Style - 100 - 4/4
+01. Basics - 100% - 1/1
+02. Rule 30 - 100% - 3/3
+03. Rule 90 - 100% - 3/3
+04. Rule 110 - 100% - 3/3
+05. Infinite - 100% - 1/1
+06. Window and move - 50% - 1/2
+07. Performance - 100% - 3/3
+08. Error handling - 60% - 3/5
+09. Coding Style - 100 - 4/4
